@@ -1,1 +1,3 @@
-I developed company structure mini project by using java..
+# Company-Structure
+I  developed this mini project using  core java.
+      
